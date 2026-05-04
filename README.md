@@ -1,0 +1,1 @@
+connectors.cdc.storebrand.no
